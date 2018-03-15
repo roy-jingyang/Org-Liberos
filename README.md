@@ -4,6 +4,8 @@
 ----------
 This is the repository holding a standalone demo program mentioned in Sect. 5.1 of the submitted paper, in which both solutions (applying GMM/MOC) have been implemented.
 
+(If you encounter slow download rate or broken file, there is an [Alternative Dropbox Link](https://www.dropbox.com/sh/n142sv5xbml8bs1/AAC1-z65YkESydvSQli9Dfc7a?dl=0).)
+
 Users who just want to run a demo without having to prepare the input data may use the script file `demo_volvo.bat`, to perform a test run on the given example data "volvo_open". The result file would be `volvo_open_model.txt`.
 
 Users may follow the instructions below to discover an organizational model with potential overlaps using any other event log file as input:
