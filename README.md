@@ -4,7 +4,7 @@
 ----------
 This is the repository holding a standalone demo program mentioned in Sect. 5.1 of the submitted paper, in which both solutions (applying GMM/MOC) have been implemented. Select the bundled zip by OS to get started.
 
-Users who want to run a demo without having to prepare the input data may use the script file (for MSWindows, run `demo_volvo.bat`; for Linux, run `demo_volvo.sh`), to perform a test run on the given example data "volvo_open". The result file would be `volvo_open_model.txt`.
+Users who want to run a demo without having to prepare the input data may use the script file `demo_volvo.bat`, to perform a test run on the given example data "volvo_open". The result file would be `volvo_open_model.txt`.
 
 Users may follow the instructions below to discover an organizational model with potential overlaps using any other event log file as input:
  1. Use [Disco](https://fluxicon.com/disco/) to import the target event log, and use the "export" function to convert to .csv format.
