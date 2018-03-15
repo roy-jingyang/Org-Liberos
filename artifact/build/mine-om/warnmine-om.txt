@@ -1,0 +1,168 @@
+missing module named 'win32com.gen_py' - imported by win32com, c:\users\yjingasd\appdata\local\programs\python\python35\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_win32comgenpy.py
+missing module named pyimod03_importers - imported by c:\users\yjingasd\appdata\local\programs\python\python35\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_pkgres.py
+missing module named resource - imported by posix, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named posix - imported by os, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named _posixsubprocess - imported by subprocess, multiprocessing.util, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named cPickle - imported by numpy.core.numeric, numpy.lib.format, numpy.lib.npyio, numpy.ma.core, sklearn.externals.joblib.parallel, sklearn.externals.joblib.pool, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named cStringIO - imported by cPickle, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named _curses - imported by curses, curses.has_key, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named future_builtins - imported by numpy.lib.npyio, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named ce - imported by os, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named 'multiprocessing.forking' - imported by sklearn.externals.joblib._multiprocessing_helpers, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py, c:\users\yjingasd\appdata\local\programs\python\python35\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_multiprocessing.py
+missing module named exceptions - imported by sklearn.externals.joblib.my_exceptions, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named 'sklearn.externals.six.moves' - imported by sklearn.utils.extmath, sklearn.multiclass, sklearn.random_projection, sklearn.model_selection._split, sklearn.model_selection._validation, sklearn.linear_model.least_angle, sklearn.linear_model.coordinate_descent, sklearn.linear_model.theil_sen, sklearn.decomposition.dict_learning, sklearn.decomposition.factor_analysis, sklearn.decomposition.online_lda, sklearn.cluster.hierarchical, sklearn.cluster.birch, sklearn.mixture.gmm, sklearn.mixture.dpgmm, sklearn.mixture.gaussian_mixture, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.eye - imported by numpy, numpy.core.numeric, scipy.interpolate._pade, scipy.optimize.optimize, scipy.optimize.minpack, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.histogramdd - imported by numpy, numpy.lib.twodim_base, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.ndarray - imported by numpy, numpy.ma.core, numpy.ma.extras, numpy.ma.mrecords, numpy.ctypeslib, scipy.stats._distn_infrastructure, scipy.stats.mstats_basic, scipy.stats.mstats_extras, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.amax - imported by numpy, numpy.ma.core, scipy.linalg.matfuncs, scipy.misc.pilutil, scipy.stats.morestats, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.amin - imported by numpy, numpy.ma.core, scipy.misc.pilutil, scipy.stats.morestats, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.iscomplexobj - imported by numpy, numpy.ma.core, scipy.linalg.decomp, scipy.misc.pilutil, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.bool_ - imported by numpy, numpy.ma.core, numpy.ma.mrecords, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.array - imported by numpy, numpy.ma.core, numpy.ma.extras, numpy.ma.mrecords, numpy.ctypeslib, scipy.sparse.linalg.isolve.utils, scipy.linalg.decomp, scipy.misc.common, scipy.interpolate.interpolate, scipy.interpolate._fitpack_impl, scipy.interpolate.fitpack2, scipy.misc.pilutil, scipy.stats.stats, scipy.optimize.lbfgsb, scipy.optimize.tnc, scipy.optimize.slsqp, scipy.optimize.minpack, scipy.integrate._ode, scipy.stats.morestats, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.expand_dims - imported by numpy, numpy.ma.core, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.dtype - imported by numpy, numpy.ma.mrecords, numpy.ctypeslib, scipy.optimize.minpack, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.recarray - imported by numpy, numpy.ma.mrecords, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named copy_reg - imported by cPickle, cStringIO, numpy.core, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named urlparse - imported by numpy.lib._datasource, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named _scproxy - imported by urllib.request, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.core.single - imported by numpy.core, numpy.linalg.linalg, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.core.double - imported by numpy.core, numpy.linalg.linalg, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.core.csingle - imported by numpy.core, numpy.linalg.linalg, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.core.cdouble - imported by numpy.core, numpy.linalg.linalg, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.core.inexact - imported by numpy.core, numpy.linalg.linalg, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.core.complexfloating - imported by numpy.core, numpy.linalg.linalg, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.core.add - imported by numpy.core, numpy.linalg.linalg, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.core.maximum - imported by numpy.core, numpy.linalg.linalg, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.core.geterrobj - imported by numpy.core, numpy.linalg.linalg, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.core.longdouble - imported by numpy.core, numpy.linalg.linalg, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.core.intp - imported by numpy.core, numpy.linalg.linalg, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.core.object_ - imported by numpy.core, numpy.linalg.linalg, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.core.divide - imported by numpy.core, numpy.linalg.linalg, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.lib.triu - imported by numpy.lib, numpy.linalg.linalg, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.core.conjugate - imported by numpy.core, numpy.fft.fftpack, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.core.integer - imported by numpy.core, numpy.fft.helper, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.core.float32 - imported by numpy.core, numpy.testing.nose_tools.utils, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.core.float64 - imported by numpy.core, numpy.testing.nose_tools.utils, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.core.signbit - imported by numpy.core, numpy.testing.nose_tools.utils, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.lib.iscomplexobj - imported by numpy.lib, numpy.testing.nose_tools.utils, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.lib.real - imported by numpy.lib, numpy.testing.nose_tools.utils, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.lib.imag - imported by numpy.lib, numpy.testing.nose_tools.utils, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.core.number - imported by numpy.core, numpy.testing.nose_tools.utils, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named 'nose.util' - imported by numpy.testing.nose_tools.noseclasses, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.random.rand - imported by numpy.random, scipy, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.random.randn - imported by numpy.random, scipy, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named cffi - imported by scipy._lib._ccallback, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named pytest - imported by scipy._lib._testutils, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named psutil - imported by scipy._lib._testutils, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named nose - imported by numpy.testing.nose_tools.utils, numpy.testing.nose_tools.decorators, numpy.testing.nose_tools.noseclasses, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.random.randint - imported by numpy.random, scipy.stats.kde, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.random.multivariate_normal - imported by numpy.random, scipy.stats.kde, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named scipy.sparse.linalg.onenormest - imported by scipy.sparse.linalg, scipy.linalg._matfuncs_inv_ssq, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named scikits - imported by scipy.sparse.linalg.dsolve.linsolve, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named scipy.sparse.coo_matrix - imported by scipy.sparse, scipy.sparse.data, sklearn.utils.fixes, scipy.optimize._numdiff, scipy.integrate._bvp, scipy.integrate._ivp.common, sklearn.metrics.classification, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.core.sqrt - imported by numpy.core, numpy.linalg.linalg, numpy.fft.fftpack, scipy.sparse.linalg._norm, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named scipy.linalg.qr_insert - imported by scipy.linalg, scipy.sparse.linalg.isolve._gcrotmk, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named new - imported by scipy.interpolate.rbf, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named matplotlib - imported by scipy.spatial._plotutils, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named 'matplotlib.collections' - imported by scipy.spatial._plotutils, scipy.cluster.hierarchy, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named scipy.spatial.cKDTree - imported by scipy.spatial, scipy.interpolate.ndgriddata, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named PIL - imported by scipy.misc.pilutil, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named Image - imported by scipy.misc.pilutil, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named ImageFilter - imported by scipy.misc.pilutil, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named scipy.special.airy - imported by scipy.special, scipy.special.orthogonal, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named scipy.special.chndtr - imported by scipy.special, scipy.stats._distn_infrastructure, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named scipy.special.rel_entr - imported by scipy.special, scipy.stats._distn_infrastructure, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named scipy.special.kl_div - imported by scipy.special, scipy.stats._distn_infrastructure, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named scipy.special.ive - imported by scipy.special, scipy.stats._distn_infrastructure, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named scipy.special.beta - imported by scipy.special, scipy.stats._tukeylambda_stats, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named scipy.special.betaln - imported by scipy.special, scipy.stats._discrete_distns, sklearn.mixture.bayesian_mixture, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named scipy.special.erf - imported by scipy.special, sklearn.gaussian_process.gpc, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named scipy.special.expit - imported by scipy.special, sklearn.gaussian_process.gpc, sklearn.linear_model.logistic, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named scipy.special.gammainc - imported by scipy.special, sklearn.neighbors.kde, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named scipy.special.gammaln - imported by scipy.special, scipy.special.spfun_stats, scipy.integrate.quadrature, scipy.stats._discrete_distns, scipy.stats._multivariate, sklearn.decomposition.pca, sklearn.decomposition.online_lda, sklearn.mixture.dpgmm, sklearn.mixture.bayesian_mixture, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named scipy.special.xlogy - imported by scipy.special, scipy.interpolate.rbf, scipy.stats._distn_infrastructure, scipy.stats._multivariate, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named scipy.special.entr - imported by scipy.special, scipy.stats._distn_infrastructure, scipy.stats._discrete_distns, scipy.stats._multivariate, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named scipy.linalg._cblas - imported by scipy.linalg, scipy.linalg.blas, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named scipy.linalg._clapack - imported by scipy.linalg, scipy.linalg.lapack, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named 'nose.plugins' - imported by numpy.testing.nose_tools.noseclasses, numpy.testing.nose_tools.nosetester, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named commands - imported by numpy.distutils.cpuinfo, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named Numeric - imported by numpy.distutils.system_info, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numarray - imported by numpy.distutils.system_info, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named __svn_version__ - imported by numpy.f2py.__version__, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named setuptools.extern.six - imported by setuptools.extern, setuptools.monkey, setuptools.dist, setuptools.py33compat, setuptools.config, setuptools.command.easy_install, setuptools.sandbox, setuptools.py27compat, setuptools.package_index, setuptools.command.egg_info, setuptools.command.sdist, setuptools.command.bdist_egg, setuptools.unicode_utils, setuptools.glob, setuptools.command.develop, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named 'setuptools.extern.six.moves' - imported by setuptools.dist, setuptools.command.easy_install, setuptools.sandbox, setuptools.command.setopt, setuptools.package_index, setuptools.ssl_support, setuptools.command.egg_info, setuptools.command.py36compat, setuptools.namespaces, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py, setuptools.msvc
+missing module named 'pkg_resources.extern.packaging.version' - imported by setuptools.msvc
+missing module named urllib2 - imported by setuptools.package_index, numpy.lib._datasource, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named backports - imported by setuptools.ssl_support, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named 'backports.ssl_match_hostname' - imported by setuptools.ssl_support, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named wincertstore - imported by setuptools.ssl_support, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named _manylinux - imported by setuptools.pep425tags, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named 'setuptools.extern.six' - imported by setuptools, setuptools.extension, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named 'pkg_resources.extern.six.moves' - imported by pkg_resources, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py, pkg_resources._vendor.packaging.requirements
+missing module named _sysconfigdata - imported by sysconfig, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named __main__ - imported by pkg_resources, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named 'pkg_resources.extern.pyparsing' - imported by pkg_resources._vendor.packaging.requirements, pkg_resources._vendor.packaging.markers
+missing module named 'com.sun' - imported by pkg_resources._vendor.appdirs
+missing module named com - imported by pkg_resources._vendor.appdirs
+missing module named ordereddict - imported by pkg_resources._vendor.pyparsing
+missing module named pkg_resources.extern.six - imported by pkg_resources.extern, pkg_resources, setuptools.wheel, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named pkg_resources.extern.appdirs - imported by pkg_resources.extern, pkg_resources, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named pkg_resources.extern.packaging - imported by pkg_resources.extern, pkg_resources, setuptools.dist, setuptools.command.egg_info, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.testing.jiffies - imported by numpy.testing, numpy.f2py.f2py_testing, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.testing.memusage - imported by numpy.testing, numpy.f2py.f2py_testing, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy_distutils - imported by numpy.f2py.diagnose, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named 'numpy_distutils.command' - imported by numpy.f2py.diagnose, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named 'numpy_distutils.fcompiler' - imported by numpy.f2py.diagnose, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named 'numpy_distutils.cpuinfo' - imported by numpy.f2py.diagnose, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named multiprocessing.SimpleQueue - imported by multiprocessing, concurrent.futures.process, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named ConfigParser - imported by numpy.distutils.system_info, numpy.distutils.npy_pkg_config, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named StringIO - imported by numpy.lib.utils, numpy.testing.nose_tools.utils, numpy.lib.format, scipy._lib.six, sklearn.externals.six, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py, pkg_resources._vendor.six
+missing module named 'org.python' - imported by pickle, setuptools.sandbox, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py, xml.sax
+missing module named readline - imported by cmd, code, pdb, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named _winreg - imported by platform, numpy.distutils.cpuinfo, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py, pkg_resources._vendor.appdirs
+missing module named java - imported by platform, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named 'java.lang' - imported by platform, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named termios - imported by tty, getpass, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named grp - imported by tarfile, shutil, pathlib, distutils.archive_util, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named _dummy_threading - imported by dummy_threading, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, pathlib, distutils.util, distutils.archive_util, netrc, getpass, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named org - imported by copy, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named thread - imported by numpy.core.arrayprint, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named dummy_thread - imported by numpy.core.arrayprint, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.linalg.inv - imported by numpy.linalg, numpy.matrixlib.defmatrix, numpy.lib.polynomial, scipy.linalg._solvers, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.lib.i0 - imported by numpy.lib, numpy.dual, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named __builtin__ - imported by numpy.core.numerictypes, numpy.core.numeric, numpy.distutils.misc_util, numpy.lib.function_base, numpy.lib._iotools, numpy.ma.core, numpy, scipy._lib.six, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py, pkg_resources._vendor.pyparsing
+missing module named numpy.inexact - imported by numpy, scipy.linalg.decomp, scipy.special.basic, scipy.optimize.minpack, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.conj - imported by numpy, scipy.linalg.decomp, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.arccos - imported by numpy, scipy.linalg.decomp_svd, scipy.special.orthogonal, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.arcsin - imported by numpy, scipy.linalg.decomp_svd, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.single - imported by numpy, scipy.linalg.decomp_schur, scipy.linalg.matfuncs, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.logical_not - imported by numpy, scipy.linalg.matfuncs, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.conjugate - imported by numpy, scipy.linalg.matfuncs, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.sign - imported by numpy, scipy.linalg.matfuncs, scipy.optimize.zeros, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.less - imported by numpy, scipy.special.basic, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.float64 - imported by numpy, scipy.optimize.lbfgsb, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.greater - imported by numpy, scipy.optimize.minpack, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.double - imported by numpy, scipy.optimize.nnls, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.logical_and - imported by numpy, scipy.stats._distn_infrastructure, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.log - imported by numpy, scipy.stats._distn_infrastructure, scipy.stats._discrete_distns, scipy.stats.morestats, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.NINF - imported by numpy, scipy.stats._distn_infrastructure, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.log1p - imported by numpy, scipy.stats._discrete_distns, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.expm1 - imported by numpy, scipy.stats._discrete_distns, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.tanh - imported by numpy, scipy.stats._discrete_distns, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.cosh - imported by numpy, scipy.stats._discrete_distns, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.sinh - imported by numpy, scipy.stats._discrete_distns, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.hypot - imported by numpy, scipy.stats.morestats, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named numpy.power - imported by numpy, scipy.stats.kde, C:\Users\yjingasd\Desktop\LAB-BPM-OrgMining-master\src\OrganizationalModelMiner\mine-om.py
+missing module named 'matplotlib.patches' - imported by scipy.cluster.hierarchy
+missing module named 'matplotlib.pylab' - imported by scipy.cluster.hierarchy
+missing module named pyamg - imported by sklearn.manifold.spectral_embedding_
