@@ -10,6 +10,7 @@ Users may follow the instructions below to discover an organizational model with
  1. Use [Disco](https://fluxicon.com/disco/) to import the target event log, and use the "export" function to convert to .csv format.
  2. Use the command line to start the program, and set the path to the csv log file as input, and specify the path for saving the output organizational model file.
     For example, in MS Windows, open command window, and navigate to the `artifact` folder and input:
+    
     `.\dist\mine-om.exe .\example_event_logs\wabo_log.csv wabo_model.txt`
 
  3. Follow the prompt to select a method and set the value(s) of the required parameter(s).
