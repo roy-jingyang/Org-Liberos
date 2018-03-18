@@ -1,10 +1,10 @@
-##### Jing Yang, Chun Ouyang, Maolin Pan, Yang Yu, Arthur ter Hofstede, *Finding the Liberos: Discover Organizational Models with Overlaps*, paper submitted to the 16th International Conference on Business Process Management (BPM 2018).
+##### Jing Yang, Chun Ouyang, Maolin Pan, Yang Yu, Arthur H.M. ter Hofstede, *Finding the Liberos: Discover Organizational Models with Overlaps*, paper submitted to the 16th International Conference on Business Process Management (BPM 2018).
 
 
 ----------
 This is the repository holding a standalone demo program mentioned in Sect. 5.1 of the submitted paper, in which both solutions (applying GMM/MOC) have been implemented.
 
-(If you encounter slow download rate or broken file, there is an [Alternative Dropbox Link](https://www.dropbox.com/sh/n142sv5xbml8bs1/AAC1-z65YkESydvSQli9Dfc7a?dl=0).)
+There is an [Alternative Dropbox Link](https://www.dropbox.com/s/uzk82jxnry65nf8/artifact.zip?dl=0).
 
 Users who just want to run a demo without having to prepare the input data may use the script file `demo_volvo.bat`, to perform a test run on the given example data "volvo_open". The result file would be `volvo_open_model.txt`.
 
