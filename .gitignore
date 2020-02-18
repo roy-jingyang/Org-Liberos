@@ -1,0 +1,7 @@
+artifact.zip
+*.old
+
+# Ignore Vim undo log
+*.un~
+*.swp
+
