@@ -122,11 +122,11 @@ if __name__ == '__main__':
 
     # output discovery result
     with open(fnout_org_model, 'w', encoding='utf-8') as fout:
-        header = 'group;members'
+        header = 'group,members'
         fout.write(header)
         fout.write('\n')
         for group_id, group in enumerate(ogs):
-            line = str(group_id) + ';' + ','.join(str(r) for r in group)
+            line = str(group_id) + ',' + ';'.join(str(r) for r in group)
             fout.write(line)
             fout.write('\n')
 
