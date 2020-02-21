@@ -1,10 +1,17 @@
 #! /usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import sys
+import argparse
+parser = argparse.ArgumentParser()
+parser.add_argument('fn_event_log', 
+    help='Path to input log file')
+parser.add_argument('fnout_org_model', 
+    help='Path to output model file')
 
-fn_event_log = sys.argv[1]
-fnout_org_model = sys.argv[2]
+args = parser.parse_args()
+
+fn_event_log = args.fn_event_log
+fnout_org_model = args.fnout_org_model
 
 if __name__ == '__main__':
     # read event log as input
