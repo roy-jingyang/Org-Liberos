@@ -26,9 +26,9 @@ if __name__ == '__main__':
     # Discover organizational groups
     print('Input a number to choose a solution:')
     print('\t1. MJA: Metric based on Joint Activities (Song & van der Aalst, 2008)')
-    print('\t2. "Commu": Overlapping Community Detection (Appice, 2018)')
-    print('\t3. GMM: Gaussian Mixture Model')
-    print('\t4. MOC: Model based Overlapping Clustering')
+    print('\t2. GMM: Gaussian Mixture Model')
+    print('\t3. MOC: Model based Overlapping Clustering')
+    #print('\t4. "Commu": Overlapping Community Detection (Appice, 2018)')
     mining_option = int(input())
 
     if mining_option == 1:
@@ -54,19 +54,6 @@ if __name__ == '__main__':
     elif mining_option == 2:
         print('Input the desired number of groups:', end=' ')
         num_groups = int(input())
-
-        # build profiles
-        from orgminer.ResourceProfiler.raw_profiler import\
-            count_execution_frequency
-        profiles = count_execution_frequency(rl, scale='log')
-
-        from orgminer.OrganizationalModelMiner.community import overlap
-        ogs = overlap.link_partitioning(profiles, num_groups, 
-            metric='correlation')
-
-    elif mining_option == 3:
-        print('Input the desired number of groups:', end=' ')
-        num_groups = int(input())
         num_groups = list(range(num_groups, num_groups + 1))
 
         # build profiles
@@ -86,7 +73,7 @@ if __name__ == '__main__':
             threshold=user_selected_threshold,
             init='kmeans')
 
-    elif mining_option == 4:
+    elif mining_option == 3:
         print('Input the desired number of groups:', end=' ')
         num_groups = int(input())
         num_groups = list(range(num_groups, num_groups + 1))
@@ -99,6 +86,23 @@ if __name__ == '__main__':
         from orgminer.OrganizationalModelMiner.clustering.overlap import moc
         ogs = moc(profiles, num_groups,
             init='kmeans')
+
+    elif mining_option == 4:
+        # NOTE: disable Commu option for now 
+        # due to unresolved dependencies of OrgMiner on Windows platform
+        raise NotImplementedError
+        print('Input the desired number of groups:', end=' ')
+        num_groups = int(input())
+
+        # build profiles
+        from orgminer.ResourceProfiler.raw_profiler import\
+            count_execution_frequency
+        profiles = count_execution_frequency(rl, scale='log')
+
+        from orgminer.OrganizationalModelMiner.community import overlap
+        ogs = overlap.link_partitioning(profiles, num_groups, 
+            metric='correlation')
+
 
     else:
         raise ValueError('Failed to recognize input option!')
