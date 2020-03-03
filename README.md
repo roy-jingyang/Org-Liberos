@@ -3,7 +3,6 @@
 ----------
 This is the repository holding a standalone demo program mentioned in Sect. 5.1 of the submitted paper, in which both solutions (applying GMM/MOC) have been implemented.
 
-### Update Notice (Feb 18, 2020)
-This repository is currently under reconstruction and will soon be 
-available again with an updated version. Thank you.
+### Update Notice (March 3, 2020)
+See [here](https://orgminer.readthedocs.io/en/latest/examples/bpm2018yang.html) for an instruction on how to use it.
 
