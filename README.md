@@ -3,6 +3,5 @@
 ----------
 This is a standalone demo mentioned in Sect. 5.1 of the conference paper. Both solutions (applying GMM and MOC) are implemented.
 
-### Update Notice (March 3, 2020)
-See [here](https://orgminer.readthedocs.io/en/latest/examples/bpm2018yang.html) for an instruction on how to use it.
-
+### Update Notice (August 16, 2021)
+See [here](https://ordinor.readthedocs.io/en/latest/examples/2018liberos.html) for an instruction on how to use it.
